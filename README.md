@@ -13,6 +13,14 @@ The goals / steps of this project are the following:
   5. Summarize the results with a written report
 
 
-video_final - output from the final version of the trained model 
+My project includes the following files:
 
-video_initial - output from same model trained on initial training data (added to show transition of improved autonomous driving using recovery lane driving in training data)
+  1. model.py - actual code defining the model architecture, preprocessing and training steps
+  
+  2. drive.py - code for driving the car in autonomous mode on the simulator
+  
+  3. model.h5 - contains a pre trained convolution neural network 
+
+  4. video_final - output from the final version of the trained model 
+
+  5. video_initial - output from same model trained on initial training data (added to show transition of improved autonomous driving using      recovery lane driving in training data)
